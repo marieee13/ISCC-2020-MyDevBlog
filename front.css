@@ -1,0 +1,75 @@
+body {
+    background: rgb(138, 22, 118);
+    color: rgb(58, 57, 57);
+}
+header * {
+background-color: rgb(255, 255, 255)}
+
+
+header h1
+{text-align: center;
+font-size:30px;
+text-align:center;}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+header nav 
+{text-align: left;
+display: block;
+background-color:rgb(255, 255, 255);
+background-color: rgb(255, 255, 255);}
+header nav li {
+    float: left; }
+
+   header nav ul{
+        background-color: rgb(255, 255, 255);
+    }
+
+ header nav li a {
+    display: block;
+    text-align: center;
+  padding: 20px 20px;}
+
+
+
+
+main{
+background-color: lightgray;
+display: block;
+    border-color: lightgray;
+    border-width: 2px;
+    border-style: solid
+}
+
+
+section.accueil
+{ border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    display: block;
+    margin-right:10%;
+    padding:10px;
+flex-direction: row;}
+
+section.articles
+{ text-align: center;
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: -205px;
+    color:white;
+
+}
+section.contact
+{
+    text-align: left;
+    margin-top: 400px;
+    margin-left: 10px;
+}
+
+
+footer
+{
+    background-color: grey;
+    position: absolute; bottom: 0; left: 0; right: 0;
+}
